@@ -4,4 +4,8 @@ body {
 }
 h1 {
   text-align: center;
+  width: 400px;
+  margin: 0 auto;
+  border-bottom: 2px solid black;
+  padding-bottom: 10px;
 }
